@@ -10,6 +10,7 @@ Every skill here uses the OpenSEO MCP server, so you'll need OpenSEO connected t
 
 | Skill | What it does |
 | --- | --- |
+| [competitor-strategy](skills/competitor-strategy/SKILL.md) | Finds a site's competitors, then turns their top pages and backlinks into keywords to track, pages to create, and link themes. |
 | [keyword-gap](skills/keyword-gap/SKILL.md) | Finds keywords your competitors rank for and you don't, and groups them into page ideas. |
 
 ## Install
