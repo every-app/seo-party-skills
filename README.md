@@ -12,6 +12,7 @@ Every skill here uses the OpenSEO MCP server, so you'll need OpenSEO connected t
 | --- | --- |
 | [competitor-strategy](skills/competitor-strategy/SKILL.md) | Finds a site's competitors, then turns their top pages and backlinks into keywords to track, pages to create, and link themes. |
 | [free-tool](skills/free-tool/SKILL.md) | Finds the free tool your site should build for search traffic, checks that page one is winnable, and specs it so your agent can build it. |
+| [icp-keywords](skills/icp-keywords/SKILL.md) | Finds the keywords your ideal customer searches when they need what you sell, grouped into pages to build. Works out the customer from your site if you don't name one. |
 | [keyword-gap](skills/keyword-gap/SKILL.md) | Finds keywords your competitors rank for and you don't, and groups them into page ideas. |
 
 ## Install
