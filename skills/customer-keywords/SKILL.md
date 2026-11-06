@@ -1,10 +1,10 @@
 ---
-name: icp-keywords
+name: customer-keywords
 description: Finds the keywords and pages a site should target from who its ideal customer is and their search intent (what they're trying to get done when they search), using OpenSEO keyword and search result data. Works out the customer and intent from the site when the user doesn't name them. Use when the user describes who they want to reach, asks what their customers search for, or wants keywords based on their audience rather than their existing pages.
 license: MIT
 ---
 
-# ICP keywords
+# Customer keywords
 
 Start from the customer, not the site's pages: who they are and their search intent, what they're trying to get done when they search. Brainstorm what that person types, measure it, check that Google serves those searches to the same person, and group what's left into families, one page each. Needs the OpenSEO MCP server connected (https://openseo.so).
 
@@ -39,7 +39,7 @@ A report in this order, with a line or two of prose around each part:
 - **Other customers:** audiences the research surfaced, each with a lead keyword and its volume.
 - **Skip these:** keywords that looked right but don't fit, with one reason each: a different searcher, another meaning of the word, a named competitor, or a need the site can't meet.
 
-Then offer to save the keywords with `save_keywords`, tagged `icp-keywords` and the family name, or to track the lead keywords with `create_rank_tracker` and `add_rank_tracking_keywords`. Do neither without a yes. If they want tracking, show the `estimate_rank_tracker_cost` figure before creating it, since scheduled tracking keeps spending credits.
+Then offer to save the keywords with `save_keywords`, tagged `customer-keywords` and the family name, or to track the lead keywords with `create_rank_tracker` and `add_rank_tracking_keywords`. Do neither without a yes. If they want tracking, show the `estimate_rank_tracker_cost` figure before creating it, since scheduled tracking keeps spending credits.
 
 ## Notes
 
