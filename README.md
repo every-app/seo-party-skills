@@ -14,6 +14,7 @@ Every skill here uses the OpenSEO MCP server, so you'll need OpenSEO connected t
 | [customer-keywords](skills/customer-keywords/SKILL.md) | Finds the searches your customer makes that you're missing, grouped into pages to build. Describe the customer and what they're looking for, or let it work that out from your site. |
 | [free-tool](skills/free-tool/SKILL.md) | Finds the free tool your site should build for search traffic, checks that page one is winnable, and specs it so your agent can build it. |
 | [keyword-gap](skills/keyword-gap/SKILL.md) | Finds keywords your competitors rank for and you don't, and groups them into page ideas. |
+| [rank-on-ai](skills/rank-on-ai/SKILL.md) | Asks ChatGPT, Perplexity, Gemini and Claude what your buyers ask, shows where you rank in each answer, and lists the pages they cite that you should get onto. Needs a paid OpenSEO plan. |
 
 ## Install
 
