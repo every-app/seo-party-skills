@@ -10,6 +10,7 @@ Every skill here uses the OpenSEO MCP server, so you'll need OpenSEO connected t
 
 | Skill | What it does |
 | --- | --- |
+| [chatgpt-business-setup](skills/chatgpt-business-setup/SKILL.md) | Gets your business ready to claim on ChatGPT. Finds what customers search about your brand, checks what ChatGPT tells them today, and writes the profile to paste into Business Hub, the fixes to make on your site, the questions to test your Business Agent with, and the steps to claim and verify. Needs a paid OpenSEO plan. |
 | [competitor-strategy](skills/competitor-strategy/SKILL.md) | Finds a site's competitors, then turns their top pages and backlinks into keywords to track, pages to create, and link themes. |
 | [customer-keywords](skills/customer-keywords/SKILL.md) | Finds the searches your customer makes that you're missing, grouped into pages to build. Describe the customer and what they're looking for, or let it work that out from your site. |
 | [free-tool](skills/free-tool/SKILL.md) | Finds the free tool your site should build for search traffic, checks that page one is winnable, and specs it so your agent can build it. |
