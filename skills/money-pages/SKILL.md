@@ -1,10 +1,10 @@
 ---
-name: saas-seo
+name: money-pages
 description: Finds the pages a SaaS needs for the searches buyers make right before they pay, using OpenSEO keyword and search result data. Covers "<competitor> alternatives", "X vs Y", competitor pricing and "<category> for <who>" pages, puts a dollar value on each from what advertisers pay per click, checks who holds page one, and lists what to build first. Use when the user runs a SaaS or software product and asks how to get sign-ups from Google, which comparison or alternatives pages to build, or for a SaaS SEO plan.
 license: MIT
 ---
 
-# SaaS SEO
+# Money pages
 
 A SaaS earns its best search sign-ups from four page types: "<competitor> alternatives", "<you> vs <competitor>", "<competitor> pricing" and "<category> for <who>", where <who> is an industry, team, business size or device. This skill finds the searches behind each for one product, prices them, checks who holds page one, and lists the pages to build. Needs the OpenSEO MCP server connected (https://openseo.so).
 
@@ -37,7 +37,7 @@ A report in this order, with a line or two of prose around each part:
 - **Build these first:** three to five pages to create or rework, best first, each with its target and variant keywords, the angle that beats page one, and what the page must include, such as a pricing table, a feature grid or a migration guide.
 - **Skip these:** searches that looked right but don't fit, with one reason each.
 
-Then offer to save the target keywords with `save_keywords`, tagged `saas-seo` and the page type. Ask before saving.
+Then offer to save the target keywords with `save_keywords`, tagged `money-pages` and the page type. Ask before saving.
 
 ## Notes
 
