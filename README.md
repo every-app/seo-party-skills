@@ -17,6 +17,7 @@ Every skill here uses the OpenSEO MCP server, so you'll need OpenSEO connected t
 | [keyword-gap](skills/keyword-gap/SKILL.md) | Finds keywords your competitors rank for and you don't, and groups them into page ideas. |
 | [rank-on-ai](skills/rank-on-ai/SKILL.md) | Asks ChatGPT, Perplexity, Gemini and Claude what your buyers ask, shows where you rank in each answer, and lists the pages they cite that you should get onto. Needs a paid OpenSEO plan. |
 | [reverse-engineer-seo](skills/reverse-engineer-seo/SKILL.md) | Reverse-engineers how any website gets its Google traffic: the page types that earn it, the search patterns behind them, and what attracts its links, then the moves to copy. |
+| [saas-seo](skills/saas-seo/SKILL.md) | Finds the pages a SaaS needs for the searches buyers make right before they pay: competitor alternatives, "X vs Y", competitor pricing and "<category> for <who>" pages. Prices each from what advertisers pay per click, checks who holds page one, and lists what to build first. |
 | [seo-manager-agent](skills/seo-manager-agent/SKILL.md) | Sets up an SEO manager in OpenAI's dots, Grok Bot or Meta's Muse that checks your sites every week and sends what moved and what to do. Sets the schedule itself inside one of them, and walks you through it anywhere else. |
 
 ## Install
